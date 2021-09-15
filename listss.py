@@ -3,6 +3,7 @@
 mylist = []
 #how to put values in list
 #append()
-mylist.append(4)
+mylist.append(4,4)
+
 #printing list item
 print(mylist[6])
