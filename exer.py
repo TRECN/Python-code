@@ -4,4 +4,7 @@ myint = 20
 
 print(mystring)
 print(myint)
+mybool=True
+
+print(mystring,myint,mybool)
 
