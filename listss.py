@@ -1,9 +1,9 @@
 #declaring
 # name = []
-mylist = []
+mystring = []
 #initialiazing
-mylist.append("Rishabh")
-mylist.append(7)
+mystring.append("Rishabh")
+mystring.append(7)
 #printing list item
-print(mylist[0],mylist[1])
+print(mystring[0],mystring[1])
 
