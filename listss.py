@@ -6,6 +6,7 @@ mystring.append("Rishabh")
 mystring.append("7")
 mystring.append("8")
 #printing list item
-print(mystring[1])
-print(mystring[2])
+for x in range(0,3):#0<=x<3
+    print(mystring[x])
+
 
