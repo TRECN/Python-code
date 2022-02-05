@@ -7,9 +7,11 @@ wallet = None
 
 if wallet is None:
     print("there is nothing")
+    wallet = 82
 
+print('my wallet has: ',wallet)
 #..
 
-wallet = 82
+
 
 
