@@ -2,5 +2,5 @@
 #dictionary={
 # "":""
 # }
-set={"item1","item2","item3"}
+set={"item1","item2","item2","item3"}
 print(set)
