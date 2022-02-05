@@ -5,7 +5,11 @@ if can_code==False:
 
 wallet = None
 
+if wallet==None:
+    print("there is nothing")
+
 #..
 
 wallet = 82
+
 
