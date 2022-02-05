@@ -5,7 +5,7 @@ if can_code==False:
 
 wallet = None
 
-if wallet==None:
+if wallet is None:
     print("there is nothing")
 
 #..
